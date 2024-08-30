@@ -13,7 +13,7 @@ requests==2.22.0
 attrs==19.3.0
 cssselect==1.1.0
 fake-useragent==0.1.11
-Faker==8.6.1
+Faker==8.0.0
 filelock==3.0.12
 greenlet==0.4.15
 hyperlink==19.0.0
